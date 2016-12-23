@@ -24,13 +24,21 @@
 
 ---
 
+フォローしてねっ✨
+
+- https://twitter.com/p_ck_
+- https://github.com/pocke
+- https://facebook.com/kwbr22
+
+---
+
 近況
 -----
 
 
 ---
 
-GitHub のレポジトリ数が<br>300 超えていました🎉
+GitHub のレポジトリ数が<br>300 になりました🎉
 ------
 
 <img src="./300.png" alt="300 repositories">
